@@ -42,10 +42,10 @@ function OnHeader() {
             </div>
   
             <div className="flex flex-col sm:flex-row gap-4">
-              <button className="btn btn-active border-none bg-new2 text-white w-full sm:w-[20%]">
+              <button className="btn btn-active border-none bg-new2 text-white w-full sm:w-[30%]">
                 Discover More
               </button>
-              <button className="btn btn-active border-none bg-new text-white w-full sm:w-[20%]">
+              <button className="btn btn-active border-none bg-new text-white w-full sm:w-[30%]">
                 Contact Us
               </button>
             </div>
