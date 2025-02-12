@@ -4,7 +4,7 @@ function OnHeader() {
         <div className="content p-[1em] sm:p-[2em] sm:pl-[4em] flex flex-col gap-1">
           <div className="up flex justify-between w-[100%] items-center flex-wrap">
             <div className="right w-full sm:w-[40%] text-center sm:text-left">
-              <img src="/public/images/logo.png" alt="Logo" className="w-[150px] sm:w-auto" />
+              <img src="webApp/public/images/logo.png" className="w-[150px] sm:w-auto" />
             </div>
   
             <div className="left text-white w-full sm:w-[60%] flex flex-col sm:flex-row justify-around items-center mt-4 sm:mt-0 gap-4 sm:gap-0">
