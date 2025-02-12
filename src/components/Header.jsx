@@ -4,7 +4,7 @@ function Header() {
   return (
     <div >
         <div className="carousel w-full  sm:h-[100vh] sm:bg-left-bottom md:h-[100vh] md:bg-center lg:h-[100vh] ">
-            <div id="slide1" className="carousel-item relative w-full bg-[url(public/images/slide-01.jpg)] bg-center
+            <div id="slide1" className="carousel-item relative w-full bg-[url(/public/images/slide-01.jpg)] bg-center
                 sm:bg-left">
                     <div className='w-[100%] px-[3em]'>
                      <OnHeader/>
@@ -16,7 +16,7 @@ function Header() {
             </div>
 
         <div id="slide2" className="carousel-item relative w-full
-        bg-[url(public/images/slide-02.jpg)] bg-center">
+        bg-[url(/public/images/slide-02.jpg)] bg-center">
             <div className='w-[100%] px-[3em]'>
                      <OnHeader/>
                     </div>
@@ -26,7 +26,7 @@ function Header() {
             </div>
         </div>
         <div id="slide3" className="carousel-item relative w-full
-         bg-[url(public/images/slide-03.jpg)] bg-center">
+         bg-[url(/public/images/slide-03.jpg)] bg-center">
             <div className='w-[100%] px-[3em]'>
                      <OnHeader/>
                     </div>
