@@ -1,9 +1,12 @@
-import Header from "./Header"
+import Header from "./header/Header"
+import Service from './services/Service';
+
 const App = () => {
   return (
-    <div>
-        <Header /> 
-    </div>
+    <div className="flex flex-col gap-[3em]">
+        <Header />
+        <Service />
+      </div>
   )
 }
 
