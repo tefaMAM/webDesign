@@ -6,7 +6,9 @@ const App = () => {
         <a className="btn btn-ghost text-xl">daisyUI</a>
       </div>
       <div>
-        
+        <div>
+          
+        </div>
       </div>
     </div>
   )
