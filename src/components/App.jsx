@@ -2,6 +2,7 @@ import Header from "./header/Header"
 import Service from './services/Service';
 import About from './about/About';
 import Contact from './contact/Contact';
+import Testimonials from './testimonials/Testimonials';
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
         <Service />
         <About />
         <Contact />
+        <Testimonials />
       </div>
   )
 }
