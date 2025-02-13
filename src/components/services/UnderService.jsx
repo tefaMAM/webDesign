@@ -3,7 +3,7 @@ const UnderService = () => {
       <div>
         <div className="flex w-full h-[50vh]">
           <div 
-            className="card bg-[url('/images/calculator-bg.jpg')] bg-cover bg-center h-full p-[2em] md:p-12 flex items-center justify-center">
+            className="card bg-[url('/images/cta-bg.jpg')] bg-cover bg-center h-full p-[2em] md:p-12 flex items-center justify-center">
             
             <div className="word flex flex-col md:flex-row w-full items-center md:items-start justify-between gap-6 ">
               <p className="text-4xl  md:text-5xl lg:text-6xl text-white font-bold leading-tight w-full md:w-[45%] text-center md:text-left">

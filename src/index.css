@@ -4,6 +4,7 @@
 @theme {
     --color-new: rgb(255, 81, 26); 
     --color-new2:rgb(67, 186, 127);
+    --color-inp:rgba(121,134,151, 0.7);
 }
 @theme {
     --shadow-shadow-lol: 0px 0px 15px rgba(0, 0, 0, 0.1);
